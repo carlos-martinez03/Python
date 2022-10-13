@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+
+[scripts]
+server = "python manage.py runserver"
+
+# Crear carpeta para contener proyectos de "Django" : mkdir Django
+# Correr comando: 
+#  pipenv install pipenv
+#  pipenv install django
+# Crear proyecto
+#  pipenv run django-admin startproject tutorial
+# Entrar a carpeta creada "tutorial"
+# Correr comando:
+#  pipenv run python manage.py runserver
+#
+# Una vez agregada la linea de [scripts] en este archivo deberas ejecutar el servidor de la siguiente manera
+#  pipenv run server

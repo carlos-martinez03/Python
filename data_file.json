@@ -1,0 +1,17 @@
+{
+    "100":{
+            "total":1260,
+            "category_id":100,
+            "category_name": "Minutes played"
+    },
+    "38":{
+        "total":3,
+        "category_id":38,
+        "category_name": "Penalties"
+    },
+    "2":{
+        "total":27,
+        "category_id":2,
+        "category_name": "Saves"
+    }
+}

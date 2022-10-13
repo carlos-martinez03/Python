@@ -1,0 +1,14 @@
+{
+    "emp_details":[
+        {
+            "name": "Carlos",
+            "email": "matcar1972@outlook.com",
+            "job_title": "Sysadmin"
+        },
+        {
+            "name": "Ian",
+            "email": "ianaaron@outlook.com",
+            "job_title": "Student"
+        }
+    ]
+}
